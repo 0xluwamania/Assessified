@@ -14,3 +14,10 @@ test_gen
 test_gen.caches
 TEST-*.xml
 junit*.properties
+
+node_modules
+npm-debug.log
+.DS_Store
+__MACOSX/
+lib/
+.env
