@@ -19,5 +19,4 @@ node_modules
 npm-debug.log
 .DS_Store
 __MACOSX/
-lib/
 .env
