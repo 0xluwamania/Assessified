@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
-    "serve": "node ./lib/app"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "@types/ejs": "^3.1.1",
